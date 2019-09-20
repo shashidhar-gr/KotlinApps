@@ -16,17 +16,32 @@
             android:textSize="30sp"
             android:text="Hello World!" />
 
-    <Button android:id="@+id/rool_button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:text="@string/roll_label" />
 
-    <Button android:id="@+id/count_button"
-            android:layout_width="wrap_content"
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:text="@string/count_label"
-    />
+            tools:context=".MainActivity" >
 
+            <Button android:id="@+id/rool_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/roll_label" />
+
+            <Button android:id="@+id/count_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/count_label"
+            />
+
+            <Button android:id="@+id/reset_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/reset_label"
+            />
+    </LinearLayout>
 </LinearLayout>
