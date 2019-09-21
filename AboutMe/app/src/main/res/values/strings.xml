@@ -3,14 +3,17 @@
     <string name="name_text">Shashidhar</string>
     <string name="yellow_star">Yellow Star</string>
     <string name="bio">Hi, my name is Shashidhar.
-\n\nI love fish.
-\n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
-\nFun fact is that I have several aquariums and also a river.
-\n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
-\nAnd sometimes I even go fishing.
-\nAnd even less sometimes, I actually catch something.
-\n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
-\n\nI\'ll be happy to teach you how to make your own aquarium.
-\nYou should ask someone else about fishing, though.\n\n</string>
+\n\nFull stack Javascript developer with 4.5 years of experience in Web Development, Restfull API’s, Internet of Things.
+
+Primary technology interests JavaScript, Node JS platform, Express JS, Angulsr JS, MongoDB.
+Strong proficiency with Javascript.
+Hands-on experience in creating RESTfull API’s using express js framework on Node js platform.
+Good understanding of nature of asynchronous programming and it quirks and workarounds.
+Basic understanding of front end technologies such as Angular JS, Ext Js, HTML, CSS, twitter bootstrap.
+Experienced in designing schemas/tables in NoSQL-Mongo DB, MySQL database.
+Proficient understanding of version controlling tools such as GIT. \n\n</string>
     <string name="bio_avatar">Bio Avatar</string>
+    <string name="what_is_your_nick_name">What is your nick name?</string>
+    <string name="done_button">Done</string>
+    <string name="nickname_text" />
 </resources>
